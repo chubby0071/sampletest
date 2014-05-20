@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+
+
+
+
+<test name="Learning assertions">
+    <classes>
+        <class name="tests.test" ></class>  
+    </classes>
+</test>
+
+</suite>
